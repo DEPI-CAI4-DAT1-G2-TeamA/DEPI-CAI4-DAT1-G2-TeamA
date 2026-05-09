@@ -45,7 +45,7 @@ o	Nada Ahmed (ERD Design, Database and Ingestion)
 
 o	Mohamed Sobhy / Tasneem Mohamed (Data Cleaning and Pre-processing)
 
-o	Mohamed Abdellah / Mostafa Ramadan (Data visualization and Dashboard)
+o	Mohamed Abdellah / Mostafa Ramadan (Data visualization, Dashboard, Insights and Recommendations)
 
 ________________________________________
 
